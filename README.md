@@ -33,4 +33,7 @@ Com base nos resultados do teste t, observamos que [explique os resultados e con
 2. Baixe o arquivo "previsao_de_renda.csv".
 3. Execute o código Python, ajustando o caminho do arquivo conforme necessário.
 
----
+## Licença
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+
