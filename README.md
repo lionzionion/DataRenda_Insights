@@ -26,7 +26,8 @@ Este projeto tem como objetivo analisar se as variáveis qualitativas "posse de 
 
 ## Conclusões
 
-Com base nos resultados do teste t, observamos que [explique os resultados e conclusões].
+Com base nos resultados do teste t, observamos que Possuir veículo está associado a diferenças significativas na renda.
+A análise estatística indica que há uma diferença estatisticamente significativa na renda entre aqueles que possuem veículo e os que não possuem, com p-value praticamente zero, sugerindo que a posse de veículo pode ser um preditor estatisticamente significativo da renda.
 
 ## Como Executar o Código
 1. Certifique-se de ter o Python e as bibliotecas necessárias instaladas (pandas, seaborn, matplotlib, scipy).
